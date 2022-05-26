@@ -1,0 +1,5 @@
+np.random.seed(123) # setting the seed
+
+o = np.random.randint(0, 10, size = (5,5))
+
+print(o)
